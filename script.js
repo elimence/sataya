@@ -6,6 +6,7 @@ document.addEventListener('keydown', (event) => {
     const targetText = 'i am about to die';
 
     if (typedText.endsWith(targetText)) {
-        secretText.textContent = 'Welcome in';
+        secretText.textContent = 'ufyu nf uif xpse: bmpipnpsb';
     }
 });
+
