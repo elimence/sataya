@@ -3,7 +3,7 @@ let typedText = '';
 
 document.addEventListener('keydown', (event) => {
     typedText += event.key.toLowerCase();
-    const targetText = 'i am about to die';
+    const targetText = 'iamabouttodie';
 
     if (typedText.endsWith(targetText)) {
         secretText.textContent = 'ufyu nf uif xpse: bmpipnpsb';
